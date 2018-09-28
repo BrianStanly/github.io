@@ -1,0 +1,49 @@
+body {
+	background-image: url("https://w-dog.ru/wallpapers/12/12/440084419987762.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+h1 {color: #8B00FF;
+}
+p {
+	font-size: 24px;
+	color: #0000FF;
+	
+}
+.verh {
+ width: 370px;
+ height: 700px;
+ margin-top : 50px;
+ margin-left : 30px;
+ float: left; 
+} 
+.pravo {
+ width: 100px;
+ height: 600px;
+ margin-top : 25px;
+ margin-left : 290px;
+ white-space : pre;
+ float: left;
+}
+.table {
+padding: 1px 10px;
+width: 500px;
+border-width: 10px;
+border: 3px solid #A52A2A;
+background-color: #040506;}
+.Stt {
+	color: #000000;
+	font-weight: 700;}
+.stroitel { 
+width: 100px;
+height: 300px; 
+margin-top : 82px;
+ margin-left : 190px;
+ float: left;
+ }
+	
+	
+.first em { text-decoration: underline;}
+.twis ez { color: #a79258}
